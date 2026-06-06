@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💜 skywhynet
 
-> *16 • Web Engineer • Security Researcher*
+> *17 • Web Engineer • Security Researcher*
 
 **Creator of ROXY** — AI with memory, evolution & no boundaries.
 
@@ -17,7 +17,7 @@
 
 🧠 Persistent memory | 📈 Evolves (🌱→👾) | 🗄️ Auto‑saves code | 🚫 Never refuses | 🎭 33+ langs
 
-*Built in 5 week at 16*
+*Built in 5 week at 17*
 
 ---
 
@@ -28,5 +28,3 @@ ESP32 radio pentesting (CC1101)
 ---
 
 [GitHub](https://github.com/Pre11yhacker) • [Telegram](https://t.me/Imsokrat)
-
-> *"Technology is neutral."* 💀
