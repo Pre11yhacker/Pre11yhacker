@@ -42,7 +42,7 @@ Cybersecurity enthusiast focused on Python development, automation, networking a
 
 ### 🟣 KREST
 
-API interaction and automation toolkit.
+AI for cybersecurity and common LLM like Hermes agent.
 
 <a href="https://github.com/Pre11yhacker/KREST">
 <img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge"/>
