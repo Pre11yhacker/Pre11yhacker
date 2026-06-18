@@ -1,4 +1,4 @@
-![banner](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='960' height='160'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%233b0256'/><stop offset='1' stop-color='%237e22ce'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><text x='50%' y='52%' font-family='Segoe UI, Roboto, Arial' font-size='40' fill='%23ffffff' text-anchor='middle'>skywhynet</text><text x='50%' y='76%' font-family='Segoe UI, Roboto, Arial' font-size='16' fill='%23e6d9ff' text-anchor='middle'>Software Engineer • Security Researcher • AI & Embedded</text></svg>)
+![banner](./banner.svg)
 
 # Pre11yhacker
 Software Engineer • Security Researcher • AI & Embedded
