@@ -1,4 +1,4 @@
-![banner](data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='960'%20height='160'><defs><linearGradient%20id='g'%20x1='0'%20x2='1'><stop%20offset='0'%20stop-color='%231f0b2b'/><stop%20offset='1'%20stop-color='%234b0076'/></linearGradient></defs><rect%20width='100%25'%20height='100%25'%20fill='url(%23g)'/><text%20x='50%25'%20y='55%25'%20font-family='Segoe%20UI,%20Roboto,%20Arial'%20font-size='36'%20fill='%23ffffff'%20text-anchor='middle'>Pre11yhacker</text><text%20x='50%25'%20y='75%25'%20font-family='Segoe%20UI,%20Roboto,%20Arial'%20font-size='18'%20fill='%23e6d9ff'%20text-anchor='middle'>Software%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20AI%20%26%20Embedded</text></svg>)
+![banner](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='960' height='160'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%233b0256'/><stop offset='1' stop-color='%237e22ce'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><text x='50%' y='52%' font-family='Segoe UI, Roboto, Arial' font-size='40' fill='%23ffffff' text-anchor='middle'>skywhynet</text><text x='50%' y='76%' font-family='Segoe UI, Roboto, Arial' font-size='16' fill='%23e6d9ff' text-anchor='middle'>Software Engineer • Security Researcher • AI & Embedded</text></svg>)
 
 # Pre11yhacker
 Software Engineer • Security Researcher • AI & Embedded
@@ -21,7 +21,7 @@ Software Engineer • Security Researcher • AI & Embedded
 
 ## Избранные проекты
 - KREST — Open source AI (Python). https://github.com/Pre11yhacker/KREST
-- telegramclient — ��елеграм UserBot / OSINT инструменты (Python). https://github.com/Pre11yhacker/telegramclient
+- telegramclient — Телеграм UserBot / OSINT инструменты (Python). https://github.com/Pre11yhacker/telegramclient
 - (Этот репозиторий) — профиль и демонстрации. https://github.com/Pre11yhacker/Pre11yhacker
 
 Личные/фирменные проекты (упоминались ранее):
