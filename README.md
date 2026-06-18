@@ -1,112 +1,62 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b0014,30:2d0b52,60:5b21b6,100:7e22ce&text=SKYWHYNET&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:05010a,40:2d0b52,70:5b21b6,100:7e22ce&text=SKYWHYNET&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<br><br>
+```text
+> Building tools.
+> Learning constantly.
+> Creating without limits.
+```
+
+<br>
 
 ![](https://komarev.com/ghpvc/?username=Pre11yhacker\&style=for-the-badge\&color=7e22ce)
 ![](https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge\&color=7e22ce)
-![](https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge\&color=7e22ce)
 
 </div>
 
 ---
 
-# 🟣 About Me
-
-```yaml
-Alias: SkyWhyNet
-
-Role:
-  - Cybersecurity Engineer
-  - Python Developer
-  - Security Researcher
-
-Focus:
-  - Automation
-  - Networking
-  - Cybersecurity
-  - Open Source Development
-
-Languages:
-  - Python
-  - Bash
-  - JavaScript
-
-Status: Building. Learning. Improving.
-```
-
----
-
-# ⚡ Arsenal
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,mysql,js"/>
+### 🟣 About
+
+Cybersecurity Engineer • Python Developer • Security Researcher
+
+Focused on automation, networking, open-source development and security research.
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
 <div align="center">
 
-## 🟣 KREST
+### ⚡ Stack
 
-Powerful API interaction and automation toolkit.
-
-<img src="https://img.shields.io/badge/Status-Active-7e22ce?style=for-the-badge"/>
-
-**Features**
-
-✔ Request automation
-
-✔ API interaction
-
-✔ Data processing
-
-✔ Lightweight architecture
-
-✔ Python based
-
-<a href="https://github.com/Pre11yhacker/KREST">
-<img src="https://img.shields.io/badge/View_Project-7e22ce?style=for-the-badge"/>
-</a>
-
----
-
-## 🟣 TelegramClient
-
-Custom Telegram client built with Python.
-
-<img src="https://img.shields.io/badge/Status-Active-7e22ce?style=for-the-badge"/>
-
-**Features**
-
-✔ Telegram API integration
-
-✔ User session management
-
-✔ Automation capabilities
-
-✔ Event handling
-
-✔ Extensible architecture
-
-<a href="https://github.com/Pre11yhacker/telegramclient">
-<img src="https://img.shields.io/badge/View_Project-7e22ce?style=for-the-badge"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,js"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+<div align="center">
+
+# 🚀 Projects
+
+| Project            | Description                              |
+| ------------------ | ---------------------------------------- |
+| **KREST**          | API interaction and automation toolkit   |
+| **TelegramClient** | Custom Telegram client written in Python |
+
+</div>
+
+---
 
 <div align="center">
+
+# 📊 Statistics
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pre11yhacker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
@@ -116,19 +66,19 @@ Custom Telegram client built with Python.
 
 ---
 
-# 🌌 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pre11yhacker&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C084FC"/>
+# 🌌 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pre11yhacker&theme=react-dark&hide_border=true&bg_color=00000000&color=A855F7&line=A855F7&point=C084FC"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
+
+# 🐍 Contributions
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -136,9 +86,6 @@ Custom Telegram client built with Python.
 
 ---
 
-### SKYWHYNET
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0b0014,30:2d0b52,60:5b21b6,100:7e22ce"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:05010a,40:2d0b52,70:5b21b6,100:7e22ce"/>
