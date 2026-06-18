@@ -4,7 +4,7 @@
 
 <br>
 
-<h3>Cybersecurity • Python • Open Source</h3>
+### Cybersecurity • Python • Open Source
 
 <br>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-### About
+## About
 
-Cybersecurity enthusiast focused on Python development, automation and open-source projects.
+Cybersecurity enthusiast focused on Python development, automation, networking and open-source projects.
 
 </div>
 
@@ -28,7 +28,7 @@ Cybersecurity enthusiast focused on Python development, automation and open-sour
 
 <div align="center">
 
-### Stack
+## Stack
 
 <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,js"/>
 
@@ -38,14 +38,24 @@ Cybersecurity enthusiast focused on Python development, automation and open-sour
 
 <div align="center">
 
-## Featured Projects
+## Projects
+
+### 🟣 KREST
+
+API interaction and automation toolkit.
 
 <a href="https://github.com/Pre11yhacker/KREST">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pre11yhacker&repo=KREST&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge"/>
 </a>
 
+<br><br>
+
+### 🟣 TelegramClient
+
+Custom Telegram client written in Python.
+
 <a href="https://github.com/Pre11yhacker/telegramclient">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pre11yhacker&repo=telegramclient&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge"/>
 </a>
 
 </div>
@@ -82,15 +92,6 @@ Cybersecurity enthusiast focused on Python development, automation and open-sour
 
 </div>
 
----
-
-<div align="center">
-
-```text
-SKYWHYNET
-```
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:05010a,40:2d0b52,70:5b21b6,100:7e22ce"/>
+
 
