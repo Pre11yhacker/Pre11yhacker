@@ -8,7 +8,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Pre11yhacker\&style=for-the-badge\&color=7e22ce)
+
 ![](https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge\&color=7e22ce)
 ![](https://img.shields.io/badge/dynamic/json?color=7e22ce\&label=repositories\&query=public_repos\&url=https://api.github.com/users/Pre11yhacker\&style=for-the-badge)
 
