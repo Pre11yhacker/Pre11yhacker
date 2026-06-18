@@ -4,12 +4,6 @@
 
 <br>
 
-```text
-> Building tools.
-> Learning constantly.
-> Creating without limits.
-```
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Pre11yhacker\&style=for-the-badge\&color=7e22ce)
