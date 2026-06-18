@@ -1,4 +1,4 @@
-![banner](./banner.svg)
+![banner](https://raw.githubusercontent.com/Pre11yhacker/Pre11yhacker/Zangetsuvpn/banner.svg)
 
 # Pre11yhacker
 Software Engineer • Security Researcher • AI & Embedded
@@ -57,7 +57,7 @@ Software Engineer • Security Researcher • AI & Embedded
 ---
 
 ## Вклад / сотрудничество
-Открыт к pull request'ам и идеям. Если видишь баг или хочешь предложить улучшение — создай issue или пиши в Telegram.
+Открыт к pull request'ам и идеями. Если видишь баг или хочешь предложить улучшение — создай issue или пиши в Telegram.
 
 ---
 
