@@ -4,7 +4,7 @@
 
 <br>
 
-### Cybersecurity • Python • Open Source
+### Cybersecurity • Python 
 
 <br>
 
