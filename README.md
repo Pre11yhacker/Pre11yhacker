@@ -19,7 +19,6 @@
 
 Cybersecurity Engineer • Python Developer • Security Researcher
 
-Focused on automation, networking, open-source development and security research.
 
 </div>
 
