@@ -1,69 +1,169 @@
-![banner](https://raw.githubusercontent.com/Pre11yhacker/Pre11yhacker/Zangetsuvpn/banner.svg)
+<div align="center">
 
-# Pre11yhacker
-Software Engineer • Security Researcher • AI & Embedded
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b0014,30:2d0b52,60:5b21b6,100:7e22ce&text=SKYWHYNET&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40"/>
+
 <br>
-<a href="https://github.com/Pre11yhacker"><img alt="github" src="https://img.shields.io/badge/GitHub-@Pre11yhacker-7e22ce?style=for-the-badge&logo=github" /></a>
-<a href="https://t.me/Imsokrat"><img alt="telegram" src="https://img.shields.io/badge/Telegram-@Imsokrat-6b21a8?style=for-the-badge&logo=telegram" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer;Python+Developer;Open+Source+Creator;Building+Tools+That+Matter"/>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Pre11yhacker\&style=for-the-badge\&color=7e22ce)
+![](https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge\&color=7e22ce)
+![](https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge\&color=7e22ce)
+
+</div>
 
 ---
 
-## О себе
-Привет! Я — молодой разработчик и исследователь безопасности. Работаю с AI, встраиваемыми устройствами и инструментами для анализа/автоматизации. Люблю экспериментировать с архитектурами ИИ, создавать автономные агенты с памятью и заниматьcя радиоканалами на ESP32/CC1101.
+# 🟣 About Me
 
-Ключевые качества:
-- Быстро прототипирую (практический подход)
-- Пишу чистый, документированный код
-- Интересуюсь безопасностью и энергосберегающими embedded-решениями
-- Открыт к сотрудничеству и новым идеям
+```yaml
+Alias: SkyWhyNet
 
----
+Role:
+  - Cybersecurity Engineer
+  - Python Developer
+  - Security Researcher
 
-## Избранные проекты
-- KREST — Open source AI (Python). https://github.com/Pre11yhacker/KREST
-- telegramclient — Телеграм UserBot / OSINT инструменты (Python). https://github.com/Pre11yhacker/telegramclient
-- (Этот репозиторий) — профиль и демонстрации. https://github.com/Pre11yhacker/Pre11yhacker
+Focus:
+  - Automation
+  - Networking
+  - Cybersecurity
+  - Open Source Development
 
-Личные/фирменные проекты (упоминались ранее):
-- ROXY — AI с персистентной памятью, эволюцией и автосохранением кода (33+ языков). (При желании добавлю ссылку на репо)
-- Judy — ESP32 + CC1101 радио‑инструменты для pentest и исследований (при желании добавлю ссылку)
+Languages:
+  - Python
+  - Bash
+  - JavaScript
 
----
-
-## Технологии и стек
-`React` • `Node.js` • `Python` • `C` • `C++` • `ESP32` • `CC1101` • Telethon
-
----
-
-## Быстрые карточки
-
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Pre11yhacker&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&bg_color=1f0b2b&icon_color=7e22ce" />
+Status: Building. Learning. Improving.
+```
 
 ---
 
-## Как посмотреть/запустить
-- KREST: склонируй репозиторий и следуй README проекта (Python, виртуальное окружение).
-- telegramclient: требует Telethon и конфигурации с API ID/API Hash.
-- Для embedded-проектов (ESP32 + CC1101) — требуется среда ESP-IDF/Arduino и железо.
+# ⚡ Arsenal
 
-Если хочешь, я могу добавить секцию «Запуск локально» с конкретными командами для каждого репозитория.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,mysql,js"/>
 
-## Контакты
-- GitHub: https://github.com/Pre11yhacker
-- Telegram: https://t.me/Imsokrat
+</div>
 
 ---
 
-## Вклад / сотрудничество
-Открыт к pull request'ам и идеями. Если видишь баг или хочешь предложить улучшение — создай issue или пиши в Telegram.
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 🟣 KREST
+
+Powerful API interaction and automation toolkit.
+
+<img src="https://img.shields.io/badge/Status-Active-7e22ce?style=for-the-badge"/>
+
+**Features**
+
+✔ Request automation
+
+✔ API interaction
+
+✔ Data processing
+
+✔ Lightweight architecture
+
+✔ Python based
+
+<a href="https://github.com/Pre11yhacker/KREST">
+<img src="https://img.shields.io/badge/View_Project-7e22ce?style=for-the-badge"/>
+</a>
 
 ---
 
-Если хочешь, я:
-- Добавлю прямые скриншоты/гифы работы проектов,
-- Вставлю подробные инструкции по запуску для каждого репозитория,
-- Закоммичу это README в ветку Zangetsuvpn.
+## 🟣 TelegramClient
 
-Скажи, что править и нужно ли коммитить — сделаю дальше.
+Custom Telegram client built with Python.
+
+<img src="https://img.shields.io/badge/Status-Active-7e22ce?style=for-the-badge"/>
+
+**Features**
+
+✔ Telegram API integration
+
+✔ User session management
+
+✔ Automation capabilities
+
+✔ Event handling
+
+✔ Extensible architecture
+
+<a href="https://github.com/Pre11yhacker/telegramclient">
+<img src="https://img.shields.io/badge/View_Project-7e22ce?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pre11yhacker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pre11yhacker&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+# 🌌 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pre11yhacker&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C084FC"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🟣 Mission
+
+> Create tools.
+>
+> Learn continuously.
+>
+> Improve security.
+>
+> Share knowledge.
+
+---
+
+<div align="center">
+
+```text
+███████╗██╗  ██╗██╗   ██╗██╗    ██╗██╗  ██╗██╗   ██╗███████╗████████╗
+██╔════╝██║ ██╔╝╚██╗ ██╔╝██║    ██║██║  ██║╚██╗ ██╔╝██╔════╝╚══██╔══╝
+███████╗█████╔╝  ╚████╔╝ ██║ █╗ ██║███████║ ╚████╔╝ █████╗     ██║
+╚════██║██╔═██╗   ╚██╔╝  ██║███╗██║██╔══██║  ╚██╔╝  ██╔══╝     ██║
+███████║██║  ██╗   ██║   ╚███╔███╔╝██║  ██║   ██║   ███████╗   ██║
+╚══════╝╚═╝  ╚═╝   ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝   ╚═╝
+```
+
+### SKYWHYNET
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0b0014,30:2d0b52,60:5b21b6,100:7e22ce"/>
+
