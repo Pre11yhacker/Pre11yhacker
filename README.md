@@ -4,8 +4,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer;Python+Developer;Open+Source+Creator;Building+Tools+That+Matter"/>
-
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=Pre11yhacker\&style=for-the-badge\&color=7e22ce)
