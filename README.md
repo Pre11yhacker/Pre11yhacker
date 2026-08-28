@@ -72,14 +72,13 @@ Custom Telegram client written in Python.
 
 <div align="center">
 
-## 📊 Statistics
+## 🐍 Contribution Snake
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pre11yhacker&show_icons=true&hide_border=true&bg_color=05010a&text_color=ffffff&title_color=a855f7&icon_color=a855f7&ring_color=7e22ce"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pre11yhacker&layout=compact&hide_border=true&bg_color=05010a&text_color=ffffff&title_color=a855f7&langs_count=8"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pre11yhacker&hide_border=true&background=05010a&stroke=2d0b52&ring=7e22ce&fire=a855f7&currStreakLabel=a855f7"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pre11yhacker/Pre11yhacker/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pre11yhacker/Pre11yhacker/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Pre11yhacker/Pre11yhacker/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
