@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05010a,40:2d0b52,70:5b21b6,100:7e22ce&text=SKYWHYNET&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlign=50&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05010a,40:2d0b52,70:5b21b6,100:7e22ce&text=SKYWHYNET&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlign=50&fontAlignY=55"/>
 
 <br>
 
@@ -66,9 +66,13 @@ Custom Telegram client written in Python.
 
 ## Statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pre11yhacker&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Pre11yhacker)
+<a href="https://github.com/Pre11yhacker">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pre11yhacker&show_icons=true&theme=violet&hide_border=false&bg_color=05010a&text_color=ffffff&title_color=7e22ce"/>
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pre11yhacker&theme=tokyonight)](https://github.com/Pre11yhacker)
+<a href="https://github.com/Pre11yhacker">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pre11yhacker&layout=compact&theme=violet&hide_border=false&bg_color=05010a&text_color=ffffff&title_color=7e22ce"/>
+</a>
 
 </div>
 
@@ -79,4 +83,3 @@ Custom Telegram client written in Python.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:05010a,40:2d0b52,70:5b21b6,100:7e22ce"/>
-
