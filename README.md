@@ -1,16 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05010a,40:2d0b52,70:5b21b6,100:7e22ce&text=SKYWHYNET&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Python%20%E2%80%A2%20Automation&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05010a,35:2d0b52,65:5b21b6,100:7e22ce&text=SKYWHYNET&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Python%20%E2%80%A2%20Automation&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Cybersecurity+enthusiast;Python+%26+automation+developer;Building+open-source+tools" alt="Typing SVG" />
-
 <br><br>
 
-<img src="https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7e22ce&labelColor=05010a&label=repositories&query=%24.public_repos&url=https://api.github.com/users/Pre11yhacker"/>
-<img src="https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a"/>
+<a href="https://github.com/Pre11yhacker">
+<img src="https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/Pre11yhacker?tab=repositories">
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7e22ce&labelColor=05010a&label=repositories&query=%24.public_repos&url=https://api.github.com/users/Pre11yhacker" alt="Repositories"/>
+</a>
+&nbsp;
+<a href="https://github.com/Pre11yhacker">
+<img src="https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub stars"/>
+</a>
 
 </div>
 
@@ -21,6 +27,7 @@
 ## 🟣 About Me
 
 Cybersecurity enthusiast focused on **Python development**, **automation**, **networking** and **open-source projects**.
+
 Always exploring new tools, breaking things safely, and writing code that makes life easier.
 
 </div>
@@ -31,9 +38,24 @@ Always exploring new tools, breaking things safely, and writing code that makes 
 
 ## 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,js&theme=dark" alt="Tech Stack"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+## 📊 GitHub Progress
+
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pre11yhacker&hide_border=true&background=05010a&ring=7e22ce&fire=A855F7&currStreakLabel=7e22ce&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
+
+</div>
+
+<br>
 
 <br>
 
@@ -46,20 +68,27 @@ Always exploring new tools, breaking things safely, and writing code that makes 
 <td width="50%" valign="top">
 
 ### 🟣 KREST
+
 AI for cybersecurity and common LLM like a Hermes agent.
 
+<br>
+
 <a href="https://github.com/Pre11yhacker/KREST">
-<img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open KREST repository"/>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🟣 TelegramClient
+
 Custom Telegram client written in Python.
 
+<br>
+
 <a href="https://github.com/Pre11yhacker/telegramclient">
-<img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open TelegramClient repository"/>
 </a>
 
 </td>
@@ -74,38 +103,18 @@ Custom Telegram client written in Python.
 
 ---
 
-<div align="center">
+## 📫 Connect
 
-## Contributions
-
-<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Pre11yhacker/Pre11yhacker/output/github-snake-dark.svg"
-  />
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Pre11yhacker/Pre11yhacker/output/github-snake.svg"
-/>
-
-<img
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/Pre11yhacker/Pre11yhacker/output/github-snake.svg"
- width="100%"
-/> </picture>
-
-</div>
-
-
-### 📫 Connect
-
-<a href="https://github.com/Pre11yhacker">
-<img src="https://img.shields.io/badge/GitHub-7e22ce?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://discord.com/users/rrendi08">
+  <img src="https://img.shields.io/badge/Discord-rrendi08-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: rrendi08"/>
+</a>
+&nbsp;
+<a href="https://t.me/imsokrat">
+  <img src="https://img.shields.io/badge/Telegram-imsokrat-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram: imsokrat"/>
 </a>
 
-</div>
+<br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:05010a,40:2d0b52,70:5b21b6,100:7e22ce"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7e22ce,40:5b21b6,70:2d0b52,100:05010a" width="100%" />
+
+</div>
