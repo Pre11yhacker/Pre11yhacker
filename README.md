@@ -24,14 +24,14 @@
 
 ### 👋 Hi, I'm Sokrat
 
-**Cybersecurity enthusiast, Python developer, automation nerd, and builder of tools that make life easier.**
+**Full stack developer, automation nerd, and builder of tools that make life easier.**
 
 I explore modern security workflows, network tooling, and open-source projects with a focus on practical automation.
 
 **Security-minded. Curious. Always building.**
 
 <pre>
-🛡️ Cybersecurity • Python • Networking
+🛡️ Cybersecurity • C++ • Networking
 🤖 Automation • Linux • Bash
 🧰 Docker • Git • GitHub • VS Code
 ⚙️ Reverse engineering • tooling • scripting
