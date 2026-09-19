@@ -98,16 +98,6 @@ Custom Telegram client written in Python for focused interaction and automation 
 
 ---
 
-## 📫 Connect
-
-<a href="https://discord.com/users/rrendi08">
-  <img src="https://img.shields.io/badge/Discord-rrendi08-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: rrendi08"/>
-</a>
-&nbsp;
-<a href="https://t.me/imsokrat">
-  <img src="https://img.shields.io/badge/Telegram-imsokrat-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram: imsokrat"/>
-</a>
-
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7e22ce,40:5b21b6,70:2d0b52,100:05010a" width="100%" />
