@@ -1,8 +1,5 @@
-
 </div>
-
 <br>
-
 <img src="./assets/profile-art.svg" width="26%" align="right" alt="Sokrat in an anime sky">
 
 ### 👋 Hi, I'm Sokrat
