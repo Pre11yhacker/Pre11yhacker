@@ -22,10 +22,6 @@ I explore modern security workflows, network tooling, and open-source projects w
   <img src="https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub followers"/>
 </a>
 &nbsp;
-<a href="https://github.com/Pre11yhacker?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7e22ce&labelColor=05010a&label=repositories&query=%24.public_repos&url=https://api.github.com/users/Pre11yhacker" alt="GitHub repositories"/>
-</a>
-&nbsp;
 <a href="https://github.com/Pre11yhacker">
   <img src="https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub stars"/>
 </p>
