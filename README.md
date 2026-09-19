@@ -1,44 +1,54 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05010a,35:2d0b52,65:5b21b6,100:7e22ce&text=SKYWHYNET&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Python%20%E2%80%A2%20Automation&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070b1a,35:1d2448,65:3b2f68,100:5b21b6&text=SOKRAT&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Cybersecurity%20%7C%20Python%20%7C%20Automation&descFontColor=e9d5ff" alt="Sokrat banner" />
 
 <br>
 
-<br><br>
-
 <a href="https://github.com/Pre11yhacker">
-<img src="https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub followers"/>
 </a>
 &nbsp;
 <a href="https://github.com/Pre11yhacker?tab=repositories">
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7e22ce&labelColor=05010a&label=repositories&query=%24.public_repos&url=https://api.github.com/users/Pre11yhacker" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7e22ce&labelColor=05010a&label=repositories&query=%24.public_repos&url=https://api.github.com/users/Pre11yhacker" alt="Public repositories"/>
 </a>
 &nbsp;
 <a href="https://github.com/Pre11yhacker">
-<img src="https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub stars"/>
 </a>
 
 </div>
 
 <br>
 
-<div align="center">
+<img src="./assets/profile-art.png" width="26%" align="right" alt="Sokrat, anime wanderer in a sunny field">
 
-## 🟣 About Me
+### 👋 Hi, I'm Sokrat
 
-Cybersecurity enthusiast focused on **Python development**, **automation**, **networking** and **open-source projects**.
+**Cybersecurity enthusiast, Python developer, automation nerd, and builder of tools that make life easier.**
 
-Always exploring new tools, breaking things safely, and writing code that makes life easier.
+I explore modern security workflows, network tooling, and open-source projects with a focus on practical automation.
 
-</div>
+**Security-minded. Curious. Always building.**
 
-<br>
+<pre>
+🛡️ Cybersecurity • Python • Networking
+🤖 Automation • Linux • Bash
+🧰 Docker • Git • GitHub • VS Code
+⚙️ Reverse engineering • tooling • scripting
+</pre>
+
+<p>
+  <a href="https://github.com/Pre11yhacker/KREST"><img src="https://img.shields.io/badge/KREST-Open_Project-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="KREST" /></a>
+  <a href="https://github.com/Pre11yhacker/telegramclient"><img src="https://img.shields.io/badge/TelegramClient-Open_Project-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="TelegramClient" /></a>
+</p>
+
+<br clear="right">
 
 <div align="center">
 
 ## 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,js&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,js&theme=dark" alt="Tech stack"/>
 
 </div>
 
@@ -48,14 +58,11 @@ Always exploring new tools, breaking things safely, and writing code that makes 
 
 ## 📊 GitHub Progress
 
-
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pre11yhacker&hide_border=true&background=05010a&ring=7e22ce&fire=A855F7&currStreakLabel=7e22ce&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pre11yhacker&hide_border=true&background=05010a&ring=7e22ce&fire=A855F7&currStreakLabel=7e22ce&sideLabels=ffffff&currStreakNum=ffffff&locale=en" alt="GitHub streak stats" />
 
 </div>
-
-<br>
 
 <br>
 
@@ -69,12 +76,12 @@ Always exploring new tools, breaking things safely, and writing code that makes 
 
 ### 🟣 KREST
 
-AI for cybersecurity and common LLM like a Hermes agent.
+AI-driven cybersecurity toolkit and assistant for experimentation, automation, and workflow support.
 
 <br>
 
 <a href="https://github.com/Pre11yhacker/KREST">
-<img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open KREST repository"/>
+  <img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open KREST repository"/>
 </a>
 
 </td>
@@ -83,12 +90,12 @@ AI for cybersecurity and common LLM like a Hermes agent.
 
 ### 🟣 TelegramClient
 
-Custom Telegram client written in Python.
+Custom Telegram client written in Python for focused interaction and automation workflows.
 
 <br>
 
 <a href="https://github.com/Pre11yhacker/telegramclient">
-<img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open TelegramClient repository"/>
+  <img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open TelegramClient repository"/>
 </a>
 
 </td>
