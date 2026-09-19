@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070b1a,35:1d2448,65:3b2f68,100:5b21b6&text=SOKRAT&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Cybersecurity%20%7C%20Python%20%7C%20Automation&descFontColor=e9d5ff" alt="Sokrat banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070b1a,35:1d2448,65:3b2f68,100:5b21b6&text=KISA&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=AI%20builder%20%7C%20creator%20%7C%20systems&descFontColor=ffffff&descFontSize=18" alt="KISA banner"/>
 
 <br>
 
@@ -9,7 +9,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/Pre11yhacker?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7e22ce&labelColor=05010a&label=repositories&query=%24.public_repos&url=https://api.github.com/users/Pre11yhacker" alt="Public repositories"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7e22ce&labelColor=05010a&label=repositories&query=%24.public_repos&url=https://api.github.com/users/Pre11yhacker" alt="GitHub repositories"/>
 </a>
 &nbsp;
 <a href="https://github.com/Pre11yhacker">
@@ -20,108 +20,52 @@
 
 <br>
 
-<img src="./assets/profile-art.png" width="26%" align="right" alt="Sokrat, anime wanderer in a sunny field">
+<img src="./assets/profile-art.png" width="26%" align="right" alt="KISA, an anime wanderer in a sunlit field">
 
-### 👋 Hi, I'm Sokrat
+### 👋 Hi, I'm KISA — aka `howdeploy`
 
-**Cybersecurity enthusiast, Python developer, automation nerd, and builder of tools that make life easier.**
+**Vibe coder, writer, content creator, and professional chat instigator.**
 
-I explore modern security workflows, network tooling, and open-source projects with a focus on practical automation.
+I build agent tools, creative workflows, and strange little systems<br>where AI gets access to real devices.
 
-**Security-minded. Curious. Always building.**
+**Vibe-coded software. Human-written words.**
 
 <pre>
-🛡️ Cybersecurity • Python • Networking
-🤖 Automation • Linux • Bash
-🧰 Docker • Git • GitHub • VS Code
-⚙️ Reverse engineering • tooling • scripting
+🤖 Vibe coding • AI agents • automation
+⌨️ Codex • Kimi CLI • custom skills
+🎨 GPT Image 2 • Anima • Krea 2
+🐧 Linux • Flipper Zero • moddable gadgets
+🧰 Tools I've worked with: Claude Code • Claude Design • opencode
+   Hermes • OpenClaw • NotebookLM • Obsidian • n8n
 </pre>
 
 <p>
-  <a href="https://github.com/Pre11yhacker/KREST"><img src="https://img.shields.io/badge/KREST-Open_Project-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="KREST" /></a>
-  <a href="https://github.com/Pre11yhacker/telegramclient"><img src="https://img.shields.io/badge/TelegramClient-Open_Project-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="TelegramClient" /></a>
+  <a href="https://www.agentation.com/"><img src="./assets/skills/agentation.svg" height="30" alt="Agentation"></a>
+  <a href="https://github.com/Graphify-Labs/graphify"><img src="./assets/skills/graphify.svg" height="30" alt="Graphify"></a>
+  <a href="https://github.com/howdeploy/ObsidianDataWeave#llm-wiki"><img src="./assets/skills/llm-wiki.svg" height="30" alt="LLM Wiki"></a>
+  <a href="https://github.com/open-gsd/gsd-core"><img src="./assets/skills/gsd-core.svg" height="30" alt="GSD Core"></a>
+  <a href="https://github.com/garrytan/gstack"><img src="./assets/skills/gstack.svg" height="30" alt="gstack"></a>
 </p>
 
 <br clear="right">
 
-<div align="center">
+### 🌤️ Outside the terminal
 
-## 🛠️ Stack
+I'm into gameplay-first single-player and indie games, moddable gadgets,<br>mechanical keyboards, Chinese anime trading cards, and the pure joy of typing.
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,js&theme=dark" alt="Tech stack"/>
+I'm also the creator of the **Deploy la deploy** and **[Deploychan.webcam](https://deploychan.webcam/)** brands.
 
-</div>
-
-<br>
+🇷🇺 Native Russian speaker. English when necessary. Still waiting for neuralese.
 
 <div align="center">
-
-## 📊 GitHub Progress
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pre11yhacker&hide_border=true&background=05010a&ring=7e22ce&fire=A855F7&currStreakLabel=7e22ce&sideLabels=ffffff&currStreakNum=ffffff&locale=en" alt="GitHub streak stats" />
-
+  <img src="./assets/nadzuna-typing.gif" width="72" alt="Nadzuna typing on a laptop">
 </div>
-
-<br>
 
 <div align="center">
-
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 KREST
-
-AI-driven cybersecurity toolkit and assistant for experimentation, automation, and workflow support.
-
-<br>
-
-<a href="https://github.com/Pre11yhacker/KREST">
-  <img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open KREST repository"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🟣 TelegramClient
-
-Custom Telegram client written in Python for focused interaction and automation workflows.
-
-<br>
-
-<a href="https://github.com/Pre11yhacker/telegramclient">
-  <img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open TelegramClient repository"/>
-</a>
-
-</td>
-</tr>
-</table>
-
+  <a href="https://t.me/deployladeploy"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram"></a>
+  <a href="https://www.youtube.com/@DeploylaDeploy/"><img src="./assets/buttons/youtube.svg" height="28" alt="YouTube"></a>
+  <a href="https://deploychan.webcam/"><img src="./assets/buttons/website.svg" height="28" alt="Website"></a>
+  <a href="https://x.com/copenzafan"><img src="./assets/buttons/x.svg" height="28" alt="X"></a>
 </div>
 
-<br>
-
-<div align="center">
-
----
-
-## 📫 Connect
-
-<a href="https://discord.com/users/rrendi08">
-  <img src="https://img.shields.io/badge/Discord-rrendi08-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: rrendi08"/>
-</a>
-&nbsp;
-<a href="https://t.me/imsokrat">
-  <img src="https://img.shields.io/badge/Telegram-imsokrat-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram: imsokrat"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7e22ce,40:5b21b6,70:2d0b52,100:05010a" width="100%" />
-
-</div>
+<!-- This repository powers the public @howdeploy profile. -->
