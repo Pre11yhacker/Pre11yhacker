@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070b1a,35:1d2448,65:3b2f68,100:5b21b6&text=SOKRAT&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Cybersecurity%20%7C%20Python%20%7C%20Automation&descFontColor=ffffff&descFontSize=18" alt="SOKRAT banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070b1a,35:1d2448,65:3b2f68,100:5b21b6&text=SOKRAT&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Cybersecurity%20%7C%20Automation%20%7C%20Python" alt="Sokrat banner" />
 
 <br>
 
@@ -60,7 +60,7 @@ I explore modern security workflows, network tooling, and open-source projects w
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pre11yhacker&hide_border=true&background=05010a&ring=7e22ce&fire=A855F7&currStreakLabel=7e22ce&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pre11yhacker&hide_border=true&background=05010a&ring=7e22ce&fire=A855F7&currStreakLabel=7e22ce&sideLabels=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&dates=ffffff" alt="GitHub streak stats"/>
 
 </div>
 
