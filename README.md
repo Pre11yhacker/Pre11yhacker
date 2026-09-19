@@ -38,8 +38,6 @@ I explore modern security workflows, network tooling, and open-source projects w
 </pre>
 
 <p>
-  <a href="https://github.com/Pre11yhacker/KREST"><img src="https://img.shields.io/badge/KREST-Open_Project-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="KREST" /></a>
-  <a href="https://github.com/Pre11yhacker/telegramclient"><img src="https://img.shields.io/badge/TelegramClient-Open_Project-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="TelegramClient" /></a>
 </p>
 
 <br clear="right">
