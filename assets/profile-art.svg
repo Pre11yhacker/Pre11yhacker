@@ -21,7 +21,6 @@
       <stop offset="100%" stop-color="#1b1b1d"/>
     </linearGradient>
     <filter id="blur1"><feGaussianBlur stdDeviation="6"/></filter>
-    <filter id="soft"><feGaussianBlur stdDeviation="2"/></filter>
   </defs>
 
   <rect width="800" height="1200" fill="url(#sky)"/>
@@ -114,26 +113,15 @@
       <path d="M146 820 Q160 890 142 980 Q110 910 146 820 Z" fill="#37414f" opacity="0.75"/>
       <path d="M626 820 Q642 890 664 980 Q686 905 626 820 Z" fill="#37414f" opacity="0.75"/>
     </g>
-
-    <g fill="#fff" opacity="0.9" font-family="sans-serif" font-size="18">
-      <circle cx="150" cy="972" r="6"/>
-      <circle cx="210" cy="1028" r="8"/>
-      <circle cx="236" cy="980" r="6"/>
-      <circle cx="554" cy="990" r="7"/>
-      <circle cx="640" cy="1020" r="8"/>
-      <circle cx="666" cy="964" r="6"/>
-    </g>
   </g>
 
   <g fill="#f4f7f7" opacity="0.9">
-    <g>
-      <circle cx="120" cy="1100" r="36"/>
-      <circle cx="140" cy="1110" r="42"/>
-      <circle cx="165" cy="1095" r="30"/>
-      <circle cx="600" cy="1115" r="35"/>
-      <circle cx="640" cy="1125" r="46"/>
-      <circle cx="665" cy="1105" r="33"/>
-    </g>
+    <circle cx="120" cy="1100" r="36"/>
+    <circle cx="140" cy="1110" r="42"/>
+    <circle cx="165" cy="1095" r="30"/>
+    <circle cx="600" cy="1115" r="35"/>
+    <circle cx="640" cy="1125" r="46"/>
+    <circle cx="665" cy="1105" r="33"/>
   </g>
 
   <g fill="#f0f7ff" opacity="0.7">
@@ -158,10 +146,5 @@
       <circle cx="60" cy="8" r="9"/>
       <circle cx="88" cy="-12" r="8"/>
     </g>
-  </g>
-
-  <g stroke="#b0d0ff" stroke-width="2" opacity="0.5" fill="none">
-    <path d="M120 668 C180 610, 220 640, 230 700"/>
-    <path d="M590 668 C640 612, 702 642, 710 700"/>
   </g>
 </svg>
