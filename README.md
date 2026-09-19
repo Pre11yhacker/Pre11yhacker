@@ -1,20 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070b1a,35:1d2448,65:3b2f68,100:5b21b6&text=SOKRAT&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Cybersecurity%20%7C%20Automation%20%7C%20Python" alt="Sokrat banner" />
-
-<br>
-
-<a href="https://github.com/Pre11yhacker">
-  <img src="https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/Pre11yhacker?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7e22ce&labelColor=05010a&label=repositories&query=%24.public_repos&url=https://api.github.com/users/Pre11yhacker" alt="GitHub repositories"/>
-</a>
-&nbsp;
-<a href="https://github.com/Pre11yhacker">
-  <img src="https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub stars"/>
-</a>
 
 </div>
 
@@ -38,6 +21,16 @@ I explore modern security workflows, network tooling, and open-source projects w
 </pre>
 
 <p>
+<a href="https://github.com/Pre11yhacker">
+  <img src="https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/Pre11yhacker?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7e22ce&labelColor=05010a&label=repositories&query=%24.public_repos&url=https://api.github.com/users/Pre11yhacker" alt="GitHub repositories"/>
+</a>
+&nbsp;
+<a href="https://github.com/Pre11yhacker">
+  <img src="https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub stars"/>
 </p>
 
 <br clear="right">
