@@ -19,11 +19,16 @@ I explore modern security workflows, network tooling, and open-source projects w
 
 <p>
 <a href="https://github.com/Pre11yhacker">
-  <img src="https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge&label=FOLLOWERS&labelColor=05010a&color=7e22ce&logo=github&logoColor=white" alt="GitHub followers"/>
 </a>
 &nbsp;
 <a href="https://github.com/Pre11yhacker">
-  <img src="https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge&color=7e22ce&labelColor=05010a&logo=github&logoColor=white" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge&label=STARS&labelColor=05010a&color=7e22ce&logo=github&logoColor=white" alt="GitHub stars"/>
+</a>
+&nbsp;
+<a href="https://github.com/Pre11yhacker?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-3-7e22ce?style=for-the-badge&labelColor=05010a&logo=github&logoColor=white" alt="GitHub repositories"/>
+</a>
 </p>
 
 <br clear="right">
