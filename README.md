@@ -61,6 +61,7 @@ I explore modern security workflows, network tooling, and open-source projects w
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🟣 KREST
@@ -88,16 +89,30 @@ Custom Telegram client written in Python for focused interaction and automation 
 </a>
 
 </td>
+
 </tr>
 </table>
 
-</div>
+<table>
+<tr>
+
+<td colspan="2" valign="top">
+
+### 🟣 Sokrat Skill
+
+AI agent skill that reduces token usage and unnecessary code changes by clarifying tasks before implementation.
 
 <br>
 
-<div align="center">
+<a href="https://github.com/Pre11yhacker/Sokrat-skill">
+  <img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open Sokrat Skill repository"/>
+</a>
 
-<br><br>
+</td>
+
+</tr>
+</table>
+</tr>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7e22ce,40:5b21b6,70:2d0b52,100:05010a" width="100%" />
 
