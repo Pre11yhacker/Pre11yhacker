@@ -111,7 +111,8 @@ AI agent skill that reduces token usage and unnecessary code changes by clarifyi
 </td>
 
 </tr>
-</table>
+ </table>
+ 
 </tr>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7e22ce,40:5b21b6,70:2d0b52,100:05010a" width="100%" />
