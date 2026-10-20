@@ -17,9 +17,7 @@
     "streak",
     "buttons"
   ],
-  "hidden": [
-    "buttons"
-  ],
+  "hidden": [],
   "hero": {
     "greeting": "sup,",
     "name": "",
@@ -79,6 +77,10 @@
           {
             "icon": "brand:tauri",
             "label": "tauri"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "linux"
           }
         ]
       },
@@ -94,8 +96,12 @@
             "label": "docker"
           },
           {
-            "icon": "brand:linux",
-            "label": "Linux"
+            "icon": "brand:cursor",
+            "label": "Cursor"
+          },
+          {
+            "icon": "code_xml",
+            "label": "Vs code"
           }
         ]
       }
@@ -133,11 +139,7 @@
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/rrendi08"
-      },
-      {
-        "icon": "cloud",
-        "url": "https://nemuritv.xyz"
+        "url": "https://discord.com/users/1192384645946417233"
       }
     ],
     "variant": "chip",
@@ -145,7 +147,20 @@
     "card": true
   },
   "buttons": {
-    "items": [],
+    "items": [
+      {
+        "icon": "favorite",
+        "label": "My website",
+        "url": "https://sokratdev.xyz",
+        "style": "tonal"
+      },
+      {
+        "icon": "dark_mode",
+        "label": "NEMURI",
+        "url": "https://",
+        "style": "tonal"
+      }
+    ],
     "card": true
   }
 }
