@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="sup, Pre11yhacker"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Ave, Pre11yhacker"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
@@ -12,7 +12,7 @@
 
 <a href="https://github.com/Pre11yhacker/Sokrat-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sokrat-skill-dark.svg"><img src="assets/project-sokrat-skill-light.svg" width="49%" alt="Sokrat-skill"></picture></a>&nbsp;<a href="https://github.com/Pre11yhacker/KREST"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-krest-dark.svg"><img src="assets/project-krest-light.svg" width="49%" alt="KREST"></picture></a>
 
-<a href="https://github.com/Pre11yhacker/telegramclient"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telegramclient-dark.svg"><img src="assets/project-telegramclient-light.svg" width="49%" alt="telegramclient"></picture></a>
+<a href="https://github.com/Pre11yhacker/telegramclient"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telegramclient-dark.svg"><img src="assets/project-telegramclient-light.svg" width="49%" alt="telegramclient"></picture></a>&nbsp;<a href="https://github.com/Pre11yhacker/Pre11yhacker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pre11yhacker-dark.svg"><img src="assets/project-pre11yhacker-light.svg" width="49%" alt="Pre11yhacker"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
@@ -20,5 +20,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-l-dark.svg"><img src="assets/button-l-light.svg" width="29.211%" alt=""></picture><a href="https://sokratdev.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="22.417%" alt="My website"></picture></a><a href="https://"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="19.158%" alt="NEMURI"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-r-dark.svg"><img src="assets/button-r-light.svg" width="29.211%" alt=""></picture>
 
+<a href="https://metawka.github.io/expressive-profile/?from=Pre11yhacker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
