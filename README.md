@@ -1,120 +1,25 @@
-</div>
-<br>
-<img src="./assets/profile-art.svg" width="26%" align="right" alt="Sokrat in an anime sky">
-
-### 👋 Hi, I'm Sokrat
-
-**Full stack developer, automation nerd, and builder of tools that make life easier.**
-
-I explore modern security workflows, network tooling, and open-source projects with a focus on practical automation.
-
-**Security-minded. Curious. Always building.**
-
-<pre>
-🛡️ Cybersecurity • C++ • Networking
-🤖 Automation • Linux • Bash
-🧰 Docker • Git • GitHub • VS Code
-⚙️ Reverse engineering • tooling • scripting
-</pre>
-
-<p>
-<a href="https://github.com/Pre11yhacker">
-  <img src="https://img.shields.io/github/followers/Pre11yhacker?style=for-the-badge&label=FOLLOWERS&labelColor=05010a&color=7e22ce&logo=github&logoColor=white" alt="GitHub followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/Pre11yhacker">
-  <img src="https://img.shields.io/github/stars/Pre11yhacker?style=for-the-badge&label=STARS&labelColor=05010a&color=7e22ce&logo=github&logoColor=white" alt="GitHub stars"/>
-</a>
-&nbsp;
-<a href="https://github.com/Pre11yhacker?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-3-7e22ce?style=for-the-badge&labelColor=05010a&logo=github&logoColor=white" alt="GitHub repositories"/>
-</a>
-</p>
-
-<br clear="right">
-
 <div align="center">
 
-## 🛠️ Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="sup, Pre11yhacker"></picture>
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,js&theme=dark" alt="Tech stack"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="22.035%" alt=""></picture><a href="https://t.me/Imsokrat"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://nemuritv.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="21.253%" alt="cloud"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="22.035%" alt=""></picture>
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-## 📊 GitHub Progress
+<a href="https://github.com/Pre11yhacker/Sokrat-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sokrat-skill-dark.svg"><img src="assets/project-sokrat-skill-light.svg" width="49%" alt="Sokrat-skill"></picture></a>&nbsp;<a href="https://github.com/Pre11yhacker/KREST"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-krest-dark.svg"><img src="assets/project-krest-light.svg" width="49%" alt="KREST"></picture></a>
 
-<br><br>
+<a href="https://github.com/Pre11yhacker/telegramclient"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telegramclient-dark.svg"><img src="assets/project-telegramclient-light.svg" width="49%" alt="telegramclient"></picture></a>&nbsp;<a href="https://github.com/Pre11yhacker/Pre11yhacker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pre11yhacker-dark.svg"><img src="assets/project-pre11yhacker-light.svg" width="49%" alt="Pre11yhacker"></picture></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pre11yhacker&hide_border=true&background=05010a&ring=7e22ce&fire=A855F7&currStreakLabel=7e22ce&sideLabels=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&dates=ffffff" alt="GitHub streak stats"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-<br>
+<a href="sokratdev.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Pre11yhacker?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-<div align="center">
-
-## 🚀 Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🟣 KREST
-
-AI-driven cybersecurity toolkit and assistant for experimentation, automation, and workflow support.
-
-<br>
-
-<a href="https://github.com/Pre11yhacker/KREST">
-  <img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open KREST repository"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🟣 TelegramClient
-
-Custom Telegram client written in Python for focused interaction and automation workflows.
-
-<br>
-
-<a href="https://github.com/Pre11yhacker/telegramclient">
-  <img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open TelegramClient repository"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td colspan="2" valign="top">
-
-### 🟣 Sokrat Skill
-
-AI agent skill that reduces token usage and unnecessary code changes by clarifying tasks before implementation.
-
-<br>
-
-<a href="https://github.com/Pre11yhacker/Sokrat-skill">
-  <img src="https://img.shields.io/badge/Open_Repository-7e22ce?style=for-the-badge&logo=github&logoColor=white" alt="Open Sokrat Skill repository"/>
-</a>
-
-</td>
-
-</tr>
- </table>
- 
-</tr>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7e22ce,40:5b21b6,70:2d0b52,100:05010a" width="100%" />
+<a href="https://metawka.github.io/expressive-profile/?from=Pre11yhacker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
