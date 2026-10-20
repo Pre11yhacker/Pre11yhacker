@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Pre11yhacker",
-  "seed": "#753F94",
+  "seed": "#BA66DA",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -109,7 +109,11 @@
   },
   "projects": {
     "source": "pinned",
-    "repos": [],
+    "repos": [
+      "Sokrat-skill",
+      "KREST",
+      "telegramclient"
+    ],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
