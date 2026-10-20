@@ -17,7 +17,9 @@
     "streak",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "buttons"
+  ],
   "hero": {
     "greeting": "sup,",
     "name": "",
@@ -131,7 +133,7 @@
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "url": "https://discord.com/rrendi08"
       },
       {
         "icon": "cloud",
@@ -143,19 +145,7 @@
     "card": true
   },
   "buttons": {
-    "items": [
-      {
-        "icon": "favorite",
-        "label": "My website",
-        "url": "sokratdev.xyz",
-        "style": "filled"
-      },
-      {
-        "icon": "book_2",
-        "label": "All repositories",
-        "url": "",
-        "style": "tonal"
-      }
-    ]
+    "items": [],
+    "card": true
   }
 }
