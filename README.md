@@ -12,7 +12,7 @@
 
 <a href="https://github.com/Pre11yhacker/Sokrat-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sokrat-skill-dark.svg"><img src="assets/project-sokrat-skill-light.svg" width="49%" alt="Sokrat-skill"></picture></a>&nbsp;<a href="https://github.com/Pre11yhacker/KREST"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-krest-dark.svg"><img src="assets/project-krest-light.svg" width="49%" alt="KREST"></picture></a>
 
-<a href="https://github.com/Pre11yhacker/telegramclient"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telegramclient-dark.svg"><img src="assets/project-telegramclient-light.svg" width="49%" alt="telegramclient"></picture></a>&nbsp;<a href="https://github.com/Pre11yhacker/Pre11yhacker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pre11yhacker-dark.svg"><img src="assets/project-pre11yhacker-light.svg" width="49%" alt="Pre11yhacker"></picture></a>
+<a href="https://github.com/Pre11yhacker/telegramclient"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telegramclient-dark.svg"><img src="assets/project-telegramclient-light.svg" width="49%" alt="telegramclient"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
