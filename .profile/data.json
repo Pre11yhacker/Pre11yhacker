@@ -1,5 +1,5 @@
 {
- "key": "65ba8639",
+ "key": "cba85118",
  "stars": 7,
  "contributions": 90,
  "repos": 4,
@@ -104,9 +104,13 @@
    {
     "c": 2,
     "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
     "today": true
    },
-   null,
    null,
    null
   ]
