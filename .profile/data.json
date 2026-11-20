@@ -1,5 +1,5 @@
 {
- "key": "3125a180",
+ "key": "f39510aa",
  "stars": 8,
  "contributions": 112,
  "repos": 5,
@@ -109,9 +109,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
